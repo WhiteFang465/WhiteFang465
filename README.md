@@ -16,7 +16,11 @@
 > - ⚡ Fun fact **I am a passionate photographer. Follow my instagram page <a href="https://instagram.com/shadesofaura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadesofaura" height="30" width="40" /></a>**
 </p>
 
+## 🌐My Projects
 
+> - [Master Mind](https://github.com/WhiteFang465/MasterMind_Game)
+> - [The Weather App](https://github.com/WhiteFang465/The_Weather_App)
+> - [Anime World](https://github.com/WhiteFang465/Anime-World)
 
 ## ⚙️ Languages and Tools
  
@@ -84,6 +88,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitefang465&show_icons=true&locale=en" alt="whitefang465" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whitefang465&" alt="whitefang465" /></p>
+                                                                                                                    
 
 ## 📱Connect with me
 <p align="left">

@@ -2059,6 +2059,25 @@ input, select, textarea {
 		background-size: cover;
 		padding: 0;
 	}
+	#header-mastermind{
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: center;
+		-webkit-justify-content: center;
+		-ms-justify-content: center;
+		justify-content: center;
+		position: relative;
+		height: 24em;
+		background: url("../../assets/css/images/mastermind.jpg") center center;
+		background-size: contain;
+		padding: 0;
+	}
 
 		#header:before {
 			content: '';

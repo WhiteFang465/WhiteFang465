@@ -2101,6 +2101,27 @@ input, select, textarea {
 		background-color: black;
 		padding: 0;
 	}
+	#header-weather-app{
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: center;
+		-webkit-justify-content: center;
+		-ms-justify-content: center;
+		justify-content: center;
+		position: relative;
+		height: 24em;
+		background: url("../../assets/css/images/weather.jpg") center center;
+		background-size: 12rem;
+		background-repeat: no-repeat;
+		background-color: black;
+		padding: 0;
+	}
 
 		#header:before {
 			content: '';
@@ -2123,6 +2144,12 @@ input, select, textarea {
 		text-align: center;
 		position: relative;
 		top: 1.5em;
+	}
+	#logo-project {
+		width: 100%;
+		text-align: center;
+		position: relative;
+		top: 6.5em;
 	}
 
 		#logo h1 {

@@ -2136,6 +2136,14 @@ input, select, textarea {
 		.homepage #header {
 			height: 35em;
 		}
+		.profile-image{
+			border-radius: 50%;
+			height: auto;
+			display: block;
+			max-width: 27%;
+			margin-left: 37%;
+		}	
+
 
 /* Logo */
 
@@ -3003,7 +3011,7 @@ input, select, textarea {
 				#content header.style1 {
 					padding-bottom: 2.5em;
 				}
-
+			
 		/* Footer */
 
 			#footer {

@@ -223,3 +223,20 @@ aside {
 .hide {
     display: none;
 }
+
+.footer {
+    display: flex;
+
+}
+
+.footer_section {
+    text-align: center;
+    width: 33.33%;
+
+}
+
+@media screen and (max-width: 600px) {
+    .footer_section {
+        width: 100%;
+    }
+}
